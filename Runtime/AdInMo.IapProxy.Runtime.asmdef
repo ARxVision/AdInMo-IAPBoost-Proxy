@@ -1,0 +1,19 @@
+{
+  "name": "AdInMo.IapProxy.Runtime",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.unity.purchasing",
+      "expression": "4.0.0",
+      "define": "UNITY_PURCHASING"
+    }
+  ],
+  "noEngineReferences": false
+}

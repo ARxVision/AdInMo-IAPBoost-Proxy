@@ -1,0 +1,27 @@
+{
+  "name": "com.adinmo.iap-proxy",
+  "version": "1.1.0",
+  "displayName": "AdInMo IAPBoost Proxy",
+  "description": "One-call Unity IAP + AdInMo IAPBoost integration with multiple initialization protection and enhanced debugging.",
+  "unity": "2021.3",
+  "keywords": ["adinmo", "iap", "unity-iap", "iapboost", "in-app-purchases", "monetization"],
+  "license": "MIT",
+  "author": {
+    "name": "AdInMo",
+    "url": "https://www.adinmo.com"
+  },
+  "dependencies": {
+    "com.unity.purchasing": "4.11.0"
+  },
+  "samples": [
+    {
+      "displayName": "IAPBoost Quickstart",
+      "description": "Minimal setup & test harness for AdInMo IAPBoost integration.",
+      "path": "Samples~/IAPBoost Quickstart"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adinmo/adinmo-iap-proxy.git"
+  }
+}
