@@ -24,6 +24,9 @@
 [Pp]ackages/
 !Packages/com.adinmo.iap-proxy/
 
+# But include our own Samples~ directory
+!Samples~/
+
 # OS
 .DS_Store
 .DS_Store?
